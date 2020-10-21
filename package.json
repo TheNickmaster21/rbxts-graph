@@ -1,6 +1,6 @@
 {
     "name": "@rbxts/graph",
-    "version": "1.0.0-ts.2",
+    "version": "1.0.1-ts.1",
     "description": "boatbomber's Graph class with types!",
     "main": "Graph.lua",
     "types": "Graph.d.ts",
