@@ -1,6 +1,6 @@
 {
     "name": "@rbxts/graph",
-    "version": "1.0.0-ts.1",
+    "version": "1.0.0-ts.2",
     "description": "boatbomber's Graph class with types!",
     "main": "Graph.lua",
     "types": "Graph.d.ts",
@@ -13,7 +13,7 @@
         "roblox",
         "graph"
     ],
-    "homepage": "https://github.com/osyrisrblx/rbxts-graph#readme",
+    "homepage": "https://github.com/TheNickmaster21/rbxts-graph.git#readme",
     "publishConfig": {
         "access": "public"
     },
