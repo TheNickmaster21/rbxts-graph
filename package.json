@@ -1,0 +1,24 @@
+{
+    "name": "@rbxts/graph",
+    "version": "1.0.0-ts.1",
+    "description": "boatbomber's Graph class with types!",
+    "main": "Graph.lua",
+    "types": "Graph.d.ts",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TheNickmaster21/rbxts-graph.git"
+    },
+    "keywords": [],
+    "homepage": "https://github.com/osyrisrblx/rbxts-graph#readme",
+    "publishConfig": {
+        "access": "public"
+    },
+    "devDependencies": {
+        "@rbxts/types": "^1.0.418"
+    },
+    "files": [
+        "Graph.d.ts",
+        "Graph.lua"
+    ]
+}
