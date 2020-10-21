@@ -9,7 +9,10 @@
         "type": "git",
         "url": "git+https://github.com/TheNickmaster21/rbxts-graph.git"
     },
-    "keywords": [],
+    "keywords": [
+        "roblox",
+        "graph"
+    ],
     "homepage": "https://github.com/osyrisrblx/rbxts-graph#readme",
     "publishConfig": {
         "access": "public"
